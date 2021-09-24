@@ -6,6 +6,7 @@
 
 <h1 align="center">About me:</h1>
 
+<p align="center">📖 Right now I'm learning <a href="https://developer.android.com/jetpack/compose?gclid=CjwKCAjw7rWKBhAtEiwAJ3CWLIiFeMybJpGl96aKviTu3HbJtywzGqSrsmYCZl5JD18b-NZUIxLyCBoCoiIQAvD_BwE&gclsrc=aw.ds" target="_blank"><b>Jetpack Compose</b></a></p>
 
 <p align="center">🔭 Now I'm working on <a href="https://github.com/DeW-u/MusicPlay" target="_blank"><b>Music Player</b></a></p>
 
