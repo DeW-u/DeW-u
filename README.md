@@ -10,7 +10,7 @@
 
 <p align="center">🔭 Now I'm working on <a href="https://github.com/DeW-u/MusicPlay" target="_blank"><b>Music Player</b></a></p>
 
-<p align="center">🎓 I’m currently studying Applied Computer Science at <b>Jagiellonian University</b></p>
+<!-- <p align="center">🎓 I’m currently studying Applied Computer Science at <b>Jagiellonian University</b></p> -->
 
 <p align="center">📧 You can reach me here: <b>dewulatos@gmail.com</b></p>
 
